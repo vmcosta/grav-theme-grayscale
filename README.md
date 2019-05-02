@@ -2,7 +2,7 @@
 
 ![Grayscale](img/grayscale.png?raw=true) 
 
-This Grav theme is a port of the [Grayscale theme] by [Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+This Grav theme is a port of the [Grayscale theme] by [Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/).
 
 # Features
 
@@ -22,7 +22,7 @@ The theme by itself is useful, but you may have an easier time getting up and ru
 
 ## GPM Installation (Preferred)
 
-The simplest way to install this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
+The simplest way to install this theme is via the [Grav Package Manager (GPM)](https://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
 
     bin/gpm install grayscale
 
@@ -30,13 +30,13 @@ This will install the Grayscale theme into your `/user/themes` directory within 
 
 ## Manual Installation
 
-To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `grayscale`. You can find these files either on [GitHub](https://github.com/vmcosta/grav-theme-grayscale) or via [GetGrav.org](http://getgrav.org/downloads/themes).
+To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `grayscale`. You can find these files either on [GitHub](https://github.com/vmcosta/grav-theme-grayscale) or via [GetGrav.org](https://getgrav.org/downloads/themes).
 
 You should now have all the theme files under
 
     /your/site/grav/user/themes/grayscale
 
->> NOTE: This theme is a modular component for Grav which requires the [Grav](http://github.com/getgrav/grav), [Error](https://github.com/getgrav/grav-theme-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins.
+>> NOTE: This theme is a modular component for Grav which requires the [Grav](https://github.com/getgrav/grav), [Error](https://github.com/getgrav/grav-theme-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins.
 
 # Updating
 
@@ -44,7 +44,7 @@ As development for the Grayscale theme continues, new versions may become availa
 
 ## GPM Update (Preferred)
 
-The simplest way to update this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm). You can do this with this by navigating to the root directory of your Grav install using your system's Terminal (also called command line) and typing the following:
+The simplest way to update this theme is via the [Grav Package Manager (GPM)](https://learn.getgrav.org/advanced/grav-gpm). You can do this with this by navigating to the root directory of your Grav install using your system's Terminal (also called command line) and typing the following:
 
     bin/gpm update grayscale
 
@@ -55,7 +55,7 @@ This command will check your Grav install to see if your Grayscale theme is due 
 Manually updating Grayscale is pretty simple. Here is what you will need to do to get this done:
 
 * Delete the `your/site/user/themes/grayscale` directory.
-* Download the new version of the Grayscale theme from either [GitHub](https://github.com/vmcosta/grav-theme-grayscale) or [GetGrav.org](http://getgrav.org/downloads/themes).
+* Download the new version of the Grayscale theme from either [GitHub](https://github.com/vmcosta/grav-theme-grayscale) or [GetGrav.org](https://getgrav.org/downloads/themes).
 * Unzip the zip file in `your/site/user/themes` and rename the resulting folder to `grayscale`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
